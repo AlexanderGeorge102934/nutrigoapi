@@ -1,4 +1,87 @@
 {
+  "Jim's Original": [
+    {
+      "name": "Polish Sausage Sandwich",
+      "price": 7,
+      "imageUrl": "lib/data/images/polish_sausage_sandwich.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Smoked Polish sausage, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g"
+    },
+    {
+      "name": "Pork Chop Sandwich",
+      "price": 9,
+      "imageUrl": "lib/data/images/pork_chop_sandwich.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Bone-in pork chop, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 550, Protein: 30g, Carbs: 35g, Fat: 30g"
+    },
+    {
+      "name": "Hot Dog, All Beef",
+      "price": 5,
+      "imageUrl": "lib/data/images/hot_dog.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "All beef hot dog, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
+      "nutritionInfo": "Calories: 400, Protein: 12g, Carbs: 30g, Fat: 20g"
+    },
+    {
+      "name": "Double Hot Dog, All Beef",
+      "price": 8,
+      "imageUrl": "lib/data/images/double_hot_dog.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
+      "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g"
+    },
+    {
+      "name": "Hamburger",
+      "price": 6,
+      "imageUrl": "lib/data/images/hamburger.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 500, Protein: 20g, Carbs: 35g, Fat: 25g"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 7,
+      "imageUrl": "lib/data/images/cheeseburger.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 550, Protein: 25g, Carbs: 35g, Fat: 30g"
+    },
+    {
+      "name": "Double-Cheeseburger",
+      "price": 10,
+      "imageUrl": "lib/data/images/double_cheeseburger.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Double grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 800, Protein: 40g, Carbs: 50g, Fat: 50g"
+    },
+    {
+      "name": "Filet of Fish Sandwich",
+      "price": 8,
+      "imageUrl": "lib/data/images/fish_sandwich.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Breaded white fish, tartar sauce, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 450, Protein: 20g, Carbs: 40g, Fat: 20g"
+    },
+    {
+      "name": "Chicken Breast Sandwich",
+      "price": 9,
+      "imageUrl": "lib/data/images/chicken_sandwich.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Grilled chicken breast, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 400, Protein: 30g, Carbs: 35g, Fat: 10g"
+    }
+  ],
   "Healthy Eats": [
     {
       "name": "Greek Yogurt with Berries",
@@ -43,7 +126,7 @@
     {
       "name": "Ribeye Steak",
       "price": 20,
-      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
+      "imageUrl": "lib/data/images/ribeye_steak.jpg",
       "mealType": "dinner",
       "diet": "high protein",
       "ingredients": "Ribeye steak, garlic butter, herbs, asparagus",
