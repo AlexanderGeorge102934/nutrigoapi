@@ -43,7 +43,7 @@
     {
       "name": "Ribeye Steak",
       "price": 20,
-      "imageUrl": "lib/data/images/ribeye_steak.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "dinner",
       "diet": "high protein",
       "ingredients": "Ribeye steak, garlic butter, herbs, asparagus",
