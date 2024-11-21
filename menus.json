@@ -5,7 +5,7 @@
       "price": 7,
       "imageUrl": "lib/data/images/polish_sausage_sandwich.jpg",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "Smoked Polish sausage, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g"
     },
@@ -23,7 +23,7 @@
       "price": 5,
       "imageUrl": "lib/data/images/hot_dog.jpg",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "All beef hot dog, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 400, Protein: 12g, Carbs: 30g, Fat: 20g"
     },
@@ -32,7 +32,7 @@
       "price": 8,
       "imageUrl": "lib/data/images/double_hot_dog.jpg",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g"
     },
@@ -41,16 +41,25 @@
       "price": 6,
       "imageUrl": "lib/data/images/hamburger.jpg",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "Grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 500, Protein: 20g, Carbs: 35g, Fat: 25g"
+    },
+    {
+      "name": "Doubleburger",
+      "price": 8,
+      "imageUrl": "lib/data/images/doubleburger.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Double grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
+      "nutritionInfo": "Calories: 700, Protein: 35g, Carbs: 40g, Fat: 40g"
     },
     {
       "name": "Cheeseburger",
       "price": 7,
       "imageUrl": "lib/data/images/cheeseburger.jpg",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "Grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 550, Protein: 25g, Carbs: 35g, Fat: 30g"
     },
@@ -68,7 +77,7 @@
       "price": 8,
       "imageUrl": "lib/data/images/fish_sandwich.jpg",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "Breaded white fish, tartar sauce, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 450, Protein: 20g, Carbs: 40g, Fat: 20g"
     },
@@ -100,46 +109,6 @@
       "diet": "vegetarian",
       "ingredients": "Avocado, whole-grain bread, olive oil, sea salt",
       "nutritionInfo": "Calories: 250, Protein: 6g, Carbs: 30g, Fat: 10g"
-    }
-  ],
-  "Quick Bites": [
-    {
-      "name": "Grilled Chicken Salad",
-      "price": 12,
-      "imageUrl": "lib/data/images/grilled_chicken_salad.jpg",
-      "mealType": "lunch",
-      "diet": "low carb",
-      "ingredients": "Grilled chicken, mixed greens, cherry tomatoes, cucumber, vinaigrette",
-      "nutritionInfo": "Calories: 300, Protein: 35g, Carbs: 10g, Fat: 15g"
-    },
-    {
-      "name": "Vegetarian Wrap",
-      "price": 9,
-      "imageUrl": "lib/data/images/vegetarian_wrap.jpg",
-      "mealType": "lunch",
-      "diet": "vegetarian",
-      "ingredients": "Whole wheat wrap, hummus, lettuce, cucumber, bell peppers",
-      "nutritionInfo": "Calories: 200, Protein: 7g, Carbs: 30g, Fat: 5g"
-    }
-  ],
-  "Gourmet Delights": [
-    {
-      "name": "Ribeye Steak",
-      "price": 20,
-      "imageUrl": "lib/data/images/ribeye_steak.jpg",
-      "mealType": "dinner",
-      "diet": "high protein",
-      "ingredients": "Ribeye steak, garlic butter, herbs, asparagus",
-      "nutritionInfo": "Calories: 600, Protein: 45g, Carbs: 5g, Fat: 45g"
-    },
-    {
-      "name": "Salmon Fillet",
-      "price": 18,
-      "imageUrl": "lib/data/images/salmon_fillet.jpg",
-      "mealType": "dinner",
-      "diet": "pescatarian",
-      "ingredients": "Salmon, lemon, dill, olive oil, green beans",
-      "nutritionInfo": "Calories: 400, Protein: 35g, Carbs: 2g, Fat: 20g"
     }
   ]
 }
