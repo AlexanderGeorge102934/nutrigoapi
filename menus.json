@@ -12,7 +12,7 @@
     {
       "name": "Pork Chop Sandwich",
       "price": 9,
-      "imageUrl": "lib/data/images/pork_chop_sandwich.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Bone-in pork chop, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
@@ -21,7 +21,7 @@
     {
       "name": "Hot Dog, All Beef",
       "price": 5,
-      "imageUrl": "lib/data/images/hot_dog.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "All beef hot dog, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
@@ -30,7 +30,7 @@
     {
       "name": "Double Hot Dog, All Beef",
       "price": 8,
-      "imageUrl": "lib/data/images/double_hot_dog.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
@@ -39,7 +39,7 @@
     {
       "name": "Hamburger",
       "price": 6,
-      "imageUrl": "lib/data/images/hamburger.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
@@ -48,7 +48,7 @@
     {
       "name": "Doubleburger",
       "price": 8,
-      "imageUrl": "lib/data/images/doubleburger.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Double grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
@@ -57,7 +57,7 @@
     {
       "name": "Cheeseburger",
       "price": 7,
-      "imageUrl": "lib/data/images/cheeseburger.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
@@ -66,7 +66,7 @@
     {
       "name": "Double-Cheeseburger",
       "price": 10,
-      "imageUrl": "lib/data/images/double_cheeseburger.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Double grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
@@ -75,7 +75,7 @@
     {
       "name": "Filet of Fish Sandwich",
       "price": 8,
-      "imageUrl": "lib/data/images/fish_sandwich.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Breaded white fish, tartar sauce, grilled onions, sport peppers, hot bun, French fries",
@@ -84,7 +84,7 @@
     {
       "name": "Chicken Breast Sandwich",
       "price": 9,
-      "imageUrl": "lib/data/images/chicken_sandwich.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Grilled chicken breast, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
@@ -95,7 +95,7 @@
     {
       "name": "Greek Yogurt with Berries",
       "price": 8,
-      "imageUrl": "lib/data/images/greek_yogurt.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "breakfast",
       "diet": "high protein",
       "ingredients": "Greek yogurt, blueberries, strawberries, honey, chia seeds",
@@ -104,7 +104,7 @@
     {
       "name": "Avocado Toast",
       "price": 10,
-      "imageUrl": "lib/data/images/avocado_toast.jpg",
+      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
       "mealType": "breakfast",
       "diet": "vegetarian",
       "ingredients": "Avocado, whole-grain bread, olive oil, sea salt",
