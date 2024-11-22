@@ -22,7 +22,7 @@
       "name": "Hot Dog, All Beef",
       "price": 5,
       "imageUrl": "lib/data/images/egg_white_omelette.jpg",
-      "mealType": "lunch",
+      "mealType": "dinner",
       "diet": "general",
       "ingredients": "All beef hot dog, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 400, Protein: 12g, Carbs: 30g, Fat: 20g"
