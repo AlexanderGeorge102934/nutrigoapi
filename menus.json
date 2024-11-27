@@ -214,5 +214,67 @@
       "nutritionInfo": "Calories: 270, Protein: 5g, Carbs: 30g, Fat: 14g",
       "orderUrl": "https://www.ubereats.com/store/two-shades-cafe/DUYE4h08TqG4PnPmKBs5Pw/2ff47120-ca96-58ff-b45a-b6b25c29cdaf/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/74f5effb-bdf1-5396-ad83-a5831e34ae25"
     }
+  ],
+  "Jarabe Chicago": [
+    {
+      "name": "Quesabirria",
+      "price": 4.00,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4cf6cd898e346f65476c0f09a35dda9b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "lunch",
+      "diet": "general",
+      "ingredients": "Birria de Res Tacos with melted Chihuahua cheese, topped with onion, cilantro, radish, and pickled vegetables. Served with dipping broth on the side.",
+      "nutritionInfo": "Calories: 350, Protein: 20g, Carbs: 30g, Fat: 15g",
+      "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/9ab6bf8e-08ef-5776-926b-d6b715fcd9c0"
+    },
+    {
+      "name": "Burrito Tex Mex",
+      "price": 10.00,
+      "imageUrl": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTJiYWFkOWIwYTVjNzA4YTA1MTM5ZmNjMmY2Zjc5NTYvYTE5YmIwOTY5MjMxMGRmZDQxZTQ5YTk2YzQyNGIzYTYuanBlZw==",
+      "mealType": "dinner",
+      "diet": "general",
+      "ingredients": "Pico de Gallo, rice, beans, sour cream, Chihuahua cheese, choice of protein.",
+      "nutritionInfo": "Calories: 700, Protein: 25g, Carbs: 90g, Fat: 25g",
+      "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/1aaf8c61-9d88-54e0-9cd6-717f8f4262f3"
+    },
+    {
+      "name": "Breakfast Burrito",
+      "price": 8.00,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4acae24a27d2a0cbe20ee8db6489e101/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "general",
+      "ingredients": "Eggs, potatoes, Chihuahua cheese, choice of protein: chorizo, machaca, steak (+$2), or bacon.",
+      "nutritionInfo": "Calories: 600, Protein: 20g, Carbs: 70g, Fat: 25g",
+      "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/6ed0f2a1-7743-56b5-89e9-13ab46c36414/cdd6d373-270e-591a-83a5-bbce7590df8c"
+    },
+    {
+      "name": "Machaca Taco",
+      "price": 5,
+      "imageUrl": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTQ3N2YzMTA3YzE2OTY4NDk5MjY2MTY1ZDdkMDI1YTYvYTE5YmIwOTY5MjMxMGRmZDQxZTQ5YTk2YzQyNGIzYTYuanBlZw==",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Shredded cured beef, eggs, onions, cilantro, avocado, pickled jalapeños.",
+      "nutritionInfo": "Calories: 250, Protein: 15g, Carbs: 20g, Fat: 10g",
+      "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/6ed0f2a1-7743-56b5-89e9-13ab46c36414/5df91bec-0006-5818-ad54-737c8935c391"
+    },
+    {
+      "name": "Quesadilla Machete",
+      "price": 10,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f0a602fffcb1b517e4734fd488f1ff04/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "dinner",
+      "diet": "vegetarian",
+      "ingredients": "Large 'Machete Style' quesadilla made with fresh masa, melted cheese, served with onion, cilantro, and roasted tomato & garlic salsa.",
+      "nutritionInfo": "Calories: 500, Protein: 15g, Carbs: 50g, Fat: 20g",
+      "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/a071f457-5412-513c-9160-a9bc5296a7ed/4136fdf2-cf61-5207-aad4-9c1af0e50e7d"
+    },
+    {
+      "name": "MYO Burrito Bowl",
+      "price": 9,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/097b99a6979f61b2b2125b10de85d7ee/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "lunch",
+      "diet": "general",
+      "ingredients": "Create your own burrito bowl with choice of base, protein, and toppings.",
+      "nutritionInfo": "Calories: Varies based on selection",
+      "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/c49a5dcd-80cf-5e32-8387-d03410e746aa"
+    }
   ]
 }
