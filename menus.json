@@ -288,5 +288,79 @@
       "nutritionInfo": "Calories: Varies based on selection",
       "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/c49a5dcd-80cf-5e32-8387-d03410e746aa"
     }
+  ],
+ "Hashbrowns": [
+    {
+      "name": "Killer Hashbrowns",
+      "price": 12,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/65e1037a92a5e4ebefbdc811f8623d36/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Idaho potatoes, cheddar cheese, onions and sour cream topped with crushed corn flakes; baked 'til bubbly.",
+      "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g",
+      "orderUrl": "https://www.ubereats.com/store/hashbrowns-maxwell-%26-halsted/2iMADL1VQxesH-BkMprRQg/1b43e2ec-f7be-4098-9f8e-b607daaf62bd/3f7ec736-d4a1-43cb-a04b-3c0522b396c3/c01f5cb3-d4bc-424e-aa2e-c511f66b2724"
+    },
+    {
+      "name": "Hashbrowns Platter",
+      "price": 14,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6dc1ead3c65a42747c2691677fad47cf/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Assorted hashbrowns.",
+      "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g",
+      "orderUrl": "https://www.ubereats.com/store/hashbrowns-maxwell-%26-halsted/2iMADL1VQxesH-BkMprRQg/1b43e2ec-f7be-4098-9f8e-b607daaf62bd/3f7ec736-d4a1-43cb-a04b-3c0522b396c3/d512a22d-5960-42e2-9947-6e7b8b33838e"
+    }
+  ],
+  "Sundrip": [
+    {
+      "name": "The og acai smoothie bowl",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aa64aa861ba6644e8180815b21801acb/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "acai, blueberries, protein powder, banana, ice topped with chocolate un·cooked-nola and seasonal fruit",
+      "nutritionInfo": "Calories: 350, Protein: 6g, Carbs: 30g, Fat: 14g",
+      "orderUrl": "https://www.ubereats.com/store/sundrip/KTp0d5rGRWu48D6kvn7TKQ/6a67b9ad-4d14-560f-9b3c-a4c8458e2911/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/d783e0c8-ac1e-5f7a-a333-10b648d5dc85"
+    },
+    {
+      "name": "The sesame noodle",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3224bdd29a78af350803a2683bfb37e9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Carrots, Cabbage, Cilantro, Thai basil, Scallions, Almonds, Garlic, Rice vinegar, Coconut aminos, Ginger, Toasted sesame oil, Salt, Black pepper, Beet sugar, Pickled Fresno pepper",
+      "nutritionInfo": "Calories: 390, Protein: 5g, Carbs: 60g, Fat: 8g",
+      "orderUrl": "https://www.ubereats.com/store/sundrip/KTp0d5rGRWu48D6kvn7TKQ/6a67b9ad-4d14-560f-9b3c-a4c8458e2911/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/db26f0b7-fcb5-59f6-af1b-58fc43563ca9"
+    },
+    {
+      "name": "The tropical acai bowl",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2668588852031255277a0c501f3c41c3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Acai base, with vanilla granola, strawberry, goji, pineapple, blue berries, almond butter and honey drizzle.",
+      "nutritionInfo": "Calories: 300, Protein: 4g, Carbs: 25g, Fat: 10g",
+      "orderUrl": "https://www.ubereats.com/store/sundrip/KTp0d5rGRWu48D6kvn7TKQ/6a67b9ad-4d14-560f-9b3c-a4c8458e2911/0faeddb4-308f-5683-b112-4a1b064bfb7b/be132d56-8c77-57e2-810b-a56f155bf96b"
+    },
+    {
+      "name": "The Green Machine",
+      "price": 12,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aa3ff26ae92310361545b2c482dbc66a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Mango, pineapple, hemp seeds, kale, granny smith apple, coconut water",
+      "nutritionInfo": "Calories: 180, Protein: 3g, Carbs: 40g, Fat: 1g",
+      "orderUrl": "https://www.ubereats.com/store/sundrip/KTp0d5rGRWu48D6kvn7TKQ/6a67b9ad-4d14-560f-9b3c-a4c8458e2911/90cbdf2c-5d3f-549d-8058-2682d7539cd8/c241808f-1493-5909-ad0b-cc10d6f594fd"
+    },
+    {
+      "name": "The mango bowl",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a49bcc07c12f9224e4dbdd2c4f662ef8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Mango base with vanilla granola, strawberry, blueberry, banana, cashew butter, honey drizzle.",
+      "nutritionInfo": "Calories: 350, Protein: 12g, Carbs: 45g, Fat: 12g",
+      "orderUrl": "https://www.ubereats.com/store/sundrip/KTp0d5rGRWu48D6kvn7TKQ/6a67b9ad-4d14-560f-9b3c-a4c8458e2911/0faeddb4-308f-5683-b112-4a1b064bfb7b/4abcb338-2504-5fa4-a5fc-6e5e192074b5"
+    }
   ]
 }
