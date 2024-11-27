@@ -35,7 +35,7 @@
       "price": 9,
       "imageUrl": "https://focuspos-onlineorder-images.s3-us-west-2.amazonaws.com/9076/10.png",
       "mealType": "lunch",
-      "diet": "high protein",
+      "diet": "general",
       "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g",
       "orderUrl": "https://www.ubereats.com/store/jims-original-union/Pm91pkqYUhypQpeHCsYjHw"
@@ -161,6 +161,18 @@
       "ingredients": "Assortment of grilled kofta, chicken, and beef. All entrees can choose between rice with vermicelli noodles or yellow rice. Add a side salad or soup for an additional charge.",
       "nutritionInfo": "Calories: 800, Protein: 30g, Carbs: 90g, Fat: 35g",
       "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/5531cb5e-c5b4-4f17-ac9b-66142c1c58ae"
+    }
+  ],
+  "ML Kitchen": [
+    {
+      "name": "Dry Chili Chicken",
+      "price": 15,
+      "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/chilli-chicken-recipe-500x375.jpg",
+      "mealType": "lunch",
+      "diet": "high protein",
+      "ingredients": "Chicken, dried red chilies, Sichuan peppercorns, garlic, ginger, soy sauce, cornstarch, and oil, stir-fried with aromatics and spices for a spicy, flavorful dish",
+      "nutritionInfo": "Calories: 277, Protein: 21g, Carbs: 21g, Fat: 12g",
+      "orderUrl": "https://www.ubereats.com/store/ml-kitchen/9QQo_OhlS5y1tBFegT-oOg/0118a0ab-c230-558a-8b70-c659e939dc04/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/03b220f3-ade5-5eb2-9a8b-8106af293143"
     }
   ],
   "Two Shade's Cafe": [
