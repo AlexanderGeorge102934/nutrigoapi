@@ -177,7 +177,7 @@
     {
       "name": "Two Shades Egg Sandwich",
       "price": 8,
-      "imageUrl": "https://tb-static.uber.com/prod/image-proc/process…80a9c2c8ca5/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "imageUrl": "https://static01.nyt.com/images/2014/07/23/dining/23SUBGONE1/23SUBGONE1-superJumbo.jpg",
       "mealType": "breakfast",
       "diet": "general",
       "ingredients": "English muffin, egg, cheddar cheese, Canadian bacon, hashbrown, spicy mayo",
@@ -187,7 +187,7 @@
     {
       "name": "Avocado Toast",
       "price": 9,
-      "imageUrl": "https://tb-static.uber.com/prod/image-proc/process…33e7660146a/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "imageUrl": "https://www.haylskitchen.com/wp-content/uploads/2019/12/Perfect-Avocado-Toast-Feature-scaled.jpeg",
       "mealType": "breakfast",
       "diet": "general",
       "ingredients": "Toast bread, avocado spread, everything bagel seasoning, red pepper seasoning, honey",
