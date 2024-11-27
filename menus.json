@@ -100,5 +100,67 @@
       "nutritionInfo": "Calories: 400, Protein: 30g, Carbs: 35g, Fat: 10g",
       "orderUrl": "https://www.ubereats.com/store/jims-original-union/Pm91pkqYUhypQpeHCsYjHw"
     }
+  ],
+  "Cairo Kebab": [
+    {
+      "name": "Koshary",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4c7dae41c4bc0471cb89375d30d0ea6e/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Rice, lentils, macaroni, zesty tomato sauce, crispy fried onions",
+      "nutritionInfo": "Calories: 450, Protein: 12g, Carbs: 80g, Fat: 10g",
+      "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg"
+    },
+    {
+      "name": "Taamiya",
+      "price": 7,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7e9dbc25c61f5bde46e58c67b2f57f7a/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+      "mealType": "dinner",
+      "diet": "vegetarian",
+      "ingredients": "4 deep-fried fava bean patty with onions, parsley, and spices. Served with tangy tahini sauce. All are served with fresh bread.",
+      "nutritionInfo": "Calories: 500, Protein: 15g, Carbs: 60g, Fat: 20g",
+      "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/c9fd0c57-29cc-4270-a196-73292831e21a/efbecbdf-dd11-4d41-877a-9b28c09331ea"
+    },
+    {
+      "name": "Chicken Shawarma Sandwich",
+      "price": 18,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/83d2cbd1a876827c203efb64ef32acc5/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "Tender slices of marinated chicken, ripe tomatoes, and tangy pickles, all wrapped in warm pita bread and drizzled with homemade garlic sauce. Served with fries.",
+      "nutritionInfo": "Calories: 600, Protein: 35g, Carbs: 50g, Fat: 25g",
+      "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/a54e69d8-94f5-4089-8d7d-85a24e96e7e2/09a8ee4c-1d31-47bf-9ce4-8e160275cd08"
+    },
+    {
+      "name": "Hawashi Sandwich",
+      "price": 12,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9a41a0efd7365361c17a2392b1b2106/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+      "mealType": "lunch",
+      "diet": "regular",
+      "ingredients": "A delicious Egyptian street food made with seasoned ground beef, onions, and tomatoes, wrapped in freshly baked pita bread. Served with a side of tahini sauce. Served with fries.",
+      "nutritionInfo": "Calories: 700, Protein: 30g, Carbs: 70g, Fat: 30g",
+      "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/a54e69d8-94f5-4089-8d7d-85a24e96e7e2/c21d8597-d267-4354-bd5e-dc3a68415660"
+    },
+    {
+      "name": "Hummus",
+      "price": 8,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/03f890685a6096eaed4561bc37417a09/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+      "mealType": "dinner",
+      "diet": "regular",
+      "ingredients": "Creamy chickpea dip made with tahini, garlic, and lemon juice. All are served with fresh bread.",
+      "nutritionInfo": "Calories: 500, Protein: 25g, Carbs: 40g, Fat: 20g",
+      "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/24c084d0-22bc-4359-97a5-4cdd05ed33d5"
+    },
+    {
+      "name": "Cairo Platter",
+      "price": 25,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3a89994415bd5db08e71777692d406ef/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
+      "mealType": "dinner",
+      "diet": "regular",
+      "ingredients": "Assortment of grilled kofta, chicken, and beef. All entrees can choose between rice with vermicelli noodles or yellow rice. Add a side salad or soup for an additional charge.",
+      "nutritionInfo": "Calories: 800, Protein: 30g, Carbs: 90g, Fat: 35g",
+      "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/5531cb5e-c5b4-4f17-ac9b-66142c1c58ae"
+    }
   ]
 }
