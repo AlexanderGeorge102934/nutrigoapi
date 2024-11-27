@@ -35,7 +35,7 @@
       "price": 9,
       "imageUrl": "https://focuspos-onlineorder-images.s3-us-west-2.amazonaws.com/9076/10.png",
       "mealType": "lunch",
-      "diet": "general",
+      "diet": "high protein",
       "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g",
       "orderUrl": "https://www.ubereats.com/store/jims-original-union/Pm91pkqYUhypQpeHCsYjHw"
