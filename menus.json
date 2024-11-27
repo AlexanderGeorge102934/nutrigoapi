@@ -8,7 +8,7 @@
       "diet": "general",
       "ingredients": "Smoked Polish sausage, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g",
-      "orderUrl": "https://www.ubereats.com/store/jims-original-union/Pm91pkqYUhypQpeHCsYjHw?diningMode=PICKUP&mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25223e6f75a6-4a98-521c-a942-97870ac6231f%2522%252C%2522sectionUuid%2522%253A%25220f64af3d-5c43-559a-a350-4f9651ae7513%2522%252C%2522subsectionUuid%2522%253A%25220379a62a-1156-4ddb-a09a-7e1dc45d5dfb%2522%252C%2522itemUuid%2522%253A%25220e3913fe-7508-57a7-ac52-3a0bcfd89eac%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1&utm_campaign=CM2508147-search-free-nonbrand-google-pas_e_all_acq_Global&utm_medium=search-free-nonbrand&utm_source=google-pas" // New field
+      "orderUrl": "https://www.ubereats.com/store/jims-original-union/Pm91pkqYUhypQpeHCsYjHw?diningMode=PICKUP&mod=quickView&modctx=%257B%2522storeUuid%2522%253A%25223e6f75a6-4a98-521c-a942-97870ac6231f%2522%252C%2522sectionUuid%2522%253A%25220f64af3d-5c43-559a-a350-4f9651ae7513%2522%252C%2522subsectionUuid%2522%253A%25220379a62a-1156-4ddb-a09a-7e1dc45d5dfb%2522%252C%2522itemUuid%2522%253A%25220e3913fe-7508-57a7-ac52-3a0bcfd89eac%2522%252C%2522showSeeDetailsCTA%2522%253Atrue%257D&ps=1&utm_campaign=CM2508147-search-free-nonbrand-google-pas_e_all_acq_Global&utm_medium=search-free-nonbrand&utm_source=google-pas"
     },
     {
       "name": "Pork Chop Sandwich",
@@ -18,7 +18,7 @@
       "diet": "high protein",
       "ingredients": "Bone-in pork chop, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 550, Protein: 30g, Carbs: 35g, Fat: 30g",
-       "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/pork-chop-sandwich"
     },
     {
       "name": "Hot Dog, All Beef",
@@ -28,7 +28,7 @@
       "diet": "general",
       "ingredients": "All beef hot dog, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 400, Protein: 12g, Carbs: 30g, Fat: 20g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/hot-dog-all-beef"
     },
     {
       "name": "Double Hot Dog, All Beef",
@@ -38,7 +38,7 @@
       "diet": "general",
       "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
       "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/double-hot-dog-all-beef"
     },
     {
       "name": "Hamburger",
@@ -48,7 +48,7 @@
       "diet": "general",
       "ingredients": "Grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 500, Protein: 20g, Carbs: 35g, Fat: 25g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/hamburger"
     },
     {
       "name": "Doubleburger",
@@ -58,7 +58,7 @@
       "diet": "high protein",
       "ingredients": "Double grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 700, Protein: 35g, Carbs: 40g, Fat: 40g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/doubleburger"
     },
     {
       "name": "Cheeseburger",
@@ -68,7 +68,7 @@
       "diet": "general",
       "ingredients": "Grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 550, Protein: 25g, Carbs: 35g, Fat: 30g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/cheeseburger"
     },
     {
       "name": "Double-Cheeseburger",
@@ -78,7 +78,7 @@
       "diet": "high protein",
       "ingredients": "Double grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 800, Protein: 40g, Carbs: 50g, Fat: 50g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/double-cheeseburger"
     },
     {
       "name": "Filet of Fish Sandwich",
@@ -88,7 +88,7 @@
       "diet": "general",
       "ingredients": "Breaded white fish, tartar sauce, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 450, Protein: 20g, Carbs: 40g, Fat: 20g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/filet-of-fish-sandwich"
     },
     {
       "name": "Chicken Breast Sandwich",
@@ -98,7 +98,7 @@
       "diet": "high protein",
       "ingredients": "Grilled chicken breast, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
       "nutritionInfo": "Calories: 400, Protein: 30g, Carbs: 35g, Fat: 10g",
-      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
+      "orderUrl": "https://www.example.com/order/chicken-breast-sandwich"
     }
   ]
 }
