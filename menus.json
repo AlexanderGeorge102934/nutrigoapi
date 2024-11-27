@@ -162,5 +162,37 @@
       "nutritionInfo": "Calories: 800, Protein: 30g, Carbs: 90g, Fat: 35g",
       "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/5531cb5e-c5b4-4f17-ac9b-66142c1c58ae"
     }
+  ],
+  "Two Shade's Cafe": [
+    {
+      "name": "Turkey Panini",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/process…308c6e86a5a/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "breakfast",
+      "diet": "high protein",
+      "ingredients": "Panini bread, turkey, bacon, swiss cheese, lettuce, tomato, onion, avocado, mayo",
+      "nutritionInfo": "Calories: 720, Protein: 48g, Carbs: 47g, Fat: 35g",
+      "orderUrl": "https://www.ubereats.com/store/two-shades-cafe/DUYE4h08TqG4PnPmKBs5Pw/2ff47120-ca96-58ff-b45a-b6b25c29cdaf/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/8c6bb94a-54f5-5262-8609-af22dae4765f"
+    },
+    {
+      "name": "Two Shades Egg Sandwich",
+      "price": 8,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/process…80a9c2c8ca5/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "breakfast",
+      "diet": "general",
+      "ingredients": "Panini bread, turkey, bacon, swiss cheese, lettuce, tomato, onion, avocado, mayo",
+      "nutritionInfo": "Calories: 580, Protein: 28g, Carbs: 42g, Fat: 35g",
+      "orderUrl": "https://www.ubereats.com/store/two-shades-cafe/DUYE4h08TqG4PnPmKBs5Pw/2ff47120-ca96-58ff-b45a-b6b25c29cdaf/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/0d2559bc-0ec3-55fc-8e03-f38367ee83b4"
+    },
+    {
+      "name": "Croissant",
+      "price": 3,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3c27d3cbb63f63961a4466ab9ff4d8f2/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "breakfast",
+      "diet": "general",
+      "ingredients": "Panini bread, turkey, bacon, swiss cheese, lettuce, tomato, onion, avocado, mayo",
+      "nutritionInfo": "Calories: 270, Protein: 5g, Carbs: 30g, Fat: 14g",
+      "orderUrl": "https://www.ubereats.com/store/two-shades-cafe/DUYE4h08TqG4PnPmKBs5Pw/2ff47120-ca96-58ff-b45a-b6b25c29cdaf/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/74f5effb-bdf1-5396-ad83-a5831e34ae25"
+    },
   ]
 }
