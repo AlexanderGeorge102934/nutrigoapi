@@ -218,7 +218,7 @@
   "Jarabe Chicago": [
     {
       "name": "Quesabirria",
-      "price": 4.00,
+      "price": 4,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4cf6cd898e346f65476c0f09a35dda9b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
       "mealType": "lunch",
       "diet": "general",
@@ -228,7 +228,7 @@
     },
     {
       "name": "Burrito Tex Mex",
-      "price": 10.00,
+      "price": 10,
       "imageUrl": "https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTJiYWFkOWIwYTVjNzA4YTA1MTM5ZmNjMmY2Zjc5NTYvYTE5YmIwOTY5MjMxMGRmZDQxZTQ5YTk2YzQyNGIzYTYuanBlZw==",
       "mealType": "dinner",
       "diet": "general",
@@ -238,7 +238,7 @@
     },
     {
       "name": "Breakfast Burrito",
-      "price": 8.00,
+      "price": 8,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4acae24a27d2a0cbe20ee8db6489e101/a19bb09692310dfd41e49a96c424b3a6.jpeg",
       "mealType": "breakfast",
       "diet": "general",
