@@ -137,7 +137,7 @@
       "price": 12,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a9a41a0efd7365361c17a2392b1b2106/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
       "mealType": "lunch",
-      "diet": "regular",
+      "diet": "general",
       "ingredients": "A delicious Egyptian street food made with seasoned ground beef, onions, and tomatoes, wrapped in freshly baked pita bread. Served with a side of tahini sauce. Served with fries.",
       "nutritionInfo": "Calories: 700, Protein: 30g, Carbs: 70g, Fat: 30g",
       "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/a54e69d8-94f5-4089-8d7d-85a24e96e7e2/c21d8597-d267-4354-bd5e-dc3a68415660"
@@ -147,7 +147,7 @@
       "price": 8,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/03f890685a6096eaed4561bc37417a09/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
       "mealType": "dinner",
-      "diet": "regular",
+      "diet": "vegan",
       "ingredients": "Creamy chickpea dip made with tahini, garlic, and lemon juice. All are served with fresh bread.",
       "nutritionInfo": "Calories: 500, Protein: 25g, Carbs: 40g, Fat: 20g",
       "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/24c084d0-22bc-4359-97a5-4cdd05ed33d5"
@@ -157,7 +157,7 @@
       "price": 25,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3a89994415bd5db08e71777692d406ef/7f4ae9ca0446cbc23e71d8d395a98428.jpeg",
       "mealType": "dinner",
-      "diet": "regular",
+      "diet": "general",
       "ingredients": "Assortment of grilled kofta, chicken, and beef. All entrees can choose between rice with vermicelli noodles or yellow rice. Add a side salad or soup for an additional charge.",
       "nutritionInfo": "Calories: 800, Protein: 30g, Carbs: 90g, Fat: 35g",
       "orderUrl": "https://www.ubereats.com/store/cairo-kebab-maxwell-st/PQ-Iy8bTUsShHxgiDECDdg/02d468c1-88f8-481f-9bb6-96e59852ed06/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/5531cb5e-c5b4-4f17-ac9b-66142c1c58ae"
