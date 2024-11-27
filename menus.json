@@ -7,7 +7,8 @@
       "mealType": "dinner",
       "diet": "general",
       "ingredients": "Smoked Polish sausage, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g"
+      "nutritionInfo": "Calories: 450, Protein: 15g, Carbs: 40g, Fat: 25g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Pork Chop Sandwich",
@@ -16,7 +17,8 @@
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Bone-in pork chop, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 550, Protein: 30g, Carbs: 35g, Fat: 30g"
+      "nutritionInfo": "Calories: 550, Protein: 30g, Carbs: 35g, Fat: 30g",
+       "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Hot Dog, All Beef",
@@ -25,7 +27,8 @@
       "mealType": "dinner",
       "diet": "general",
       "ingredients": "All beef hot dog, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
-      "nutritionInfo": "Calories: 400, Protein: 12g, Carbs: 30g, Fat: 20g"
+      "nutritionInfo": "Calories: 400, Protein: 12g, Carbs: 30g, Fat: 20g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Double Hot Dog, All Beef",
@@ -34,7 +37,8 @@
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Two all-beef hot dogs, yellow salad mustard, grilled onions, sport peppers, steamed bun, French fries",
-      "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g"
+      "nutritionInfo": "Calories: 600, Protein: 24g, Carbs: 50g, Fat: 30g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Hamburger",
@@ -43,7 +47,8 @@
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 500, Protein: 20g, Carbs: 35g, Fat: 25g"
+      "nutritionInfo": "Calories: 500, Protein: 20g, Carbs: 35g, Fat: 25g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Doubleburger",
@@ -52,7 +57,8 @@
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Double grilled ground beef, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 700, Protein: 35g, Carbs: 40g, Fat: 40g"
+      "nutritionInfo": "Calories: 700, Protein: 35g, Carbs: 40g, Fat: 40g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Cheeseburger",
@@ -61,7 +67,8 @@
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 550, Protein: 25g, Carbs: 35g, Fat: 30g"
+      "nutritionInfo": "Calories: 550, Protein: 25g, Carbs: 35g, Fat: 30g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Double-Cheeseburger",
@@ -70,7 +77,8 @@
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Double grilled ground beef, American cheese, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 800, Protein: 40g, Carbs: 50g, Fat: 50g"
+      "nutritionInfo": "Calories: 800, Protein: 40g, Carbs: 50g, Fat: 50g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Filet of Fish Sandwich",
@@ -79,7 +87,8 @@
       "mealType": "lunch",
       "diet": "general",
       "ingredients": "Breaded white fish, tartar sauce, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 450, Protein: 20g, Carbs: 40g, Fat: 20g"
+      "nutritionInfo": "Calories: 450, Protein: 20g, Carbs: 40g, Fat: 20g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     },
     {
       "name": "Chicken Breast Sandwich",
@@ -88,27 +97,8 @@
       "mealType": "lunch",
       "diet": "high protein",
       "ingredients": "Grilled chicken breast, yellow salad mustard, grilled onions, sport peppers, hot bun, French fries",
-      "nutritionInfo": "Calories: 400, Protein: 30g, Carbs: 35g, Fat: 10g"
-    }
-  ],
-  "Healthy Eats": [
-    {
-      "name": "Greek Yogurt with Berries",
-      "price": 8,
-      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
-      "mealType": "breakfast",
-      "diet": "high protein",
-      "ingredients": "Greek yogurt, blueberries, strawberries, honey, chia seeds",
-      "nutritionInfo": "Calories: 150, Protein: 15g, Carbs: 20g, Fat: 5g"
-    },
-    {
-      "name": "Avocado Toast",
-      "price": 10,
-      "imageUrl": "lib/data/images/egg_white_omelette.jpg",
-      "mealType": "breakfast",
-      "diet": "vegetarian",
-      "ingredients": "Avocado, whole-grain bread, olive oil, sea salt",
-      "nutritionInfo": "Calories: 250, Protein: 6g, Carbs: 30g, Fat: 10g"
+      "nutritionInfo": "Calories: 400, Protein: 30g, Carbs: 35g, Fat: 10g",
+      "orderUrl": "https://example.com/order/polish-sausage-sandwich" // New field
     }
   ]
 }
