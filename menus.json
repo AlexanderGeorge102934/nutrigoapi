@@ -289,7 +289,7 @@
       "orderUrl": "https://www.ubereats.com/store/jarabe/jFnsAHvdQqigwQrP6QHcQw/271b3713-2612-50d0-beea-e6eadedffb9b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/c49a5dcd-80cf-5e32-8387-d03410e746aa"
     }
   ],
- "Hashbrowns": [
+  "Hashbrowns": [
     {
       "name": "Killer Hashbrowns",
       "price": 12,
@@ -361,6 +361,160 @@
       "ingredients": "Mango base with vanilla granola, strawberry, blueberry, banana, cashew butter, honey drizzle.",
       "nutritionInfo": "Calories: 350, Protein: 12g, Carbs: 45g, Fat: 12g",
       "orderUrl": "https://www.ubereats.com/store/sundrip/KTp0d5rGRWu48D6kvn7TKQ/6a67b9ad-4d14-560f-9b3c-a4c8458e2911/0faeddb4-308f-5683-b112-4a1b064bfb7b/4abcb338-2504-5fa4-a5fc-6e5e192074b5"
+    }
+  ],
+  "IDOF": [
+    {
+      "name": "Vegan Falafel",
+      "price": 3,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/8222aae5e4b02d9edaa4e8e2e7886414/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Chickpeas, onions, garlic, flour, herbs and spices",
+      "nutritionInfo": "Calories: 180, Protein: 9g, Carbs: 18g, Fat: 10g",
+      "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/37590964-99ac-5768-a8fa-a1140b6f8b92/9db218a0-5b24-5b12-8c6a-64136bfaec38"
+    },
+    {
+      "name": "Vegan Dream",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6b1ad0d7da445d55fcceffd19460dad1/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "With your choice of baba ganoujeh or hummus, falafel, couscous, chickpea-quinoa salad, cabbage slaw, tabouli, and tahini sauce",
+      "nutritionInfo": "Calories: 753, Protein: 30g, Carbs: 87g, Fat: 42g",
+      "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/3edaae4d-f9ac-50e7-a767-a181a3496357"
+    },
+    {
+      "name": "All-In Platter",
+      "price": 15,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ac8068140f864f29b6209d4d50949e0b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "Steak, döner, chicken, and falafel over a bed of saffron rice, cucumber-tomato salad, red cabbage slaw, and tahini sauce.",
+      "nutritionInfo": "Calories: 830, Protein: 56g, Carbs: 77g, Fat: 33g",
+      "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/3edaae4d-f9ac-50e7-a767-a181a3496357"
+    }
+  ],
+  "Adda Indian Cuisine": [
+    {
+      "name": "Baigan Saraf",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4df78a7e8d7afcbd373aa0e76e17bd7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "dinner",
+      "diet": "vegetarian",
+      "ingredients": "Japanese eggplant, desiccated coconut, whole spices, peanuts, and yogurt",
+      "nutritionInfo": "Calories: 244, Protein: 6g, Carbs: 30g, Fat: 14g",
+      "orderUrl": "https://www.ubereats.com/store/adda-indian-cuisine/anOEKJyXQS6o_-Ujabd9WQ/d6d00c32-72b2-4fec-99a0-d54519927a90/f4e5e092-528b-45f6-bc89-c890e76d8756/f1439019-cf90-4f1e-b313-74f31c172df3"
+    },
+    {
+      "name": "Kerala Fish Curry",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d6c7a98a62e20e53d5cc01bfd65502af/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "Black pepper curry leaves, onion gravy, and Kerala style.",
+      "nutritionInfo": "Calories: 290, Protein: 22g, Carbs: 15g, Fat: 18g",
+      "orderUrl": "https://www.ubereats.com/store/adda-indian-cuisine/anOEKJyXQS6o_-Ujabd9WQ/d6d00c32-72b2-4fec-99a0-d54519927a90/40c0d293-f733-4719-ba04-91b16da57319/5c7fe449-7ee1-4a99-9126-f72d38d5bf97"
+    },
+    {
+      "name": "Coconut Fish Curry",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d6c7a98a62e20e53d5cc01bfd65502af/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "Mahi Mahi, coconut cream, kokum, curry leaves, and whole red chilies.",
+      "nutritionInfo": "Calories: 200, Protein: 23g, Carbs: 7g, Fat: 8g",
+      "orderUrl": "https://www.ubereats.com/store/adda-indian-cuisine/anOEKJyXQS6o_-Ujabd9WQ/d6d00c32-72b2-4fec-99a0-d54519927a90/40c0d293-f733-4719-ba04-91b16da57319/4aa06dd6-479d-46b0-831c-12fd5d2a4f3c"
+    }
+  ],
+  "Pita Pita Mediterranean Grill": [
+    {
+      "name": "Falafel Plate",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a1faf15012fd1d1dd17138998a8a10d6/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "Mahi Mahi, coconut cream, kokum, curry leaves, and whole red chilies.",
+      "nutritionInfo": "Calories: 200, Protein: 23g, Carbs: 7g, Fat: 8g",
+      "orderUrl": "https://www.ubereats.com/store/adda-indian-cuisine/anOEKJyXQS6o_-Ujabd9WQ/d6d00c32-72b2-4fec-99a0-d54519927a90/40c0d293-f733-4719-ba04-91b16da57319/4aa06dd6-479d-46b0-831c-12fd5d2a4f3c"
+    }
+  ],
+  "Deep Purpl Acai Bowls": [
+    {
+      "name": "Spinach & Cheese",
+      "price": 5,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/52e4d5169d467426d2f81139c9d9f0d9/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegetarian",
+      "ingredients": "Spinach chopped and sautéed with diced onions mixed with our creamy house made béchamel sauce and mozzarella cheese.",
+      "nutritionInfo": "Calories: 275, Protein: 8g, Carbs: 25g, Fat: 13g",
+      "orderUrl": "https://www.ubereats.com/store/deep-purpl-acai-bowls-madison-street/02KqVyVvR7CazaegSmjpCQ/7abf1378-2f0b-583d-8381-fa4a22cd2635/34decdb7-0c34-5728-a712-ace69521bac4/3a34a922-9e27-54df-b15d-f69bcd0a8219"
+    },
+    {
+      "name": "Ratatouille",
+      "price": 5,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6563c431c59807ad15b383e12dceb3ed/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegan",
+      "ingredients": "Sautéed carrots, zucchini, mushroom, red pepper, onions and garlic.",
+      "nutritionInfo": "Calories: 180, Protein: 5g, Carbs: 20g, Fat: 8g",
+      "orderUrl": "https://www.ubereats.com/store/deep-purpl-acai-bowls-madison-street/02KqVyVvR7CazaegSmjpCQ/7abf1378-2f0b-583d-8381-fa4a22cd2635/34decdb7-0c34-5728-a712-ace69521bac4/c1fe1d2f-2cda-5097-973d-552ee8667d12"
+    }
+  ],
+  "Flaco's Tacos": [
+    {
+      "name": "Chorizo Con Papas Taco",
+      "price": 5,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/846e706498562a0fcf44f1bbc3f8688c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "dinner",
+      "diet": "general",
+      "ingredients": "Mildly-spiced pork chorizo mixed with potato and topped with cheese,diced onion, and cilantro on corn tortillas.",
+      "nutritionInfo": "Calories: 360, Protein: 14g, Carbs: 22g, Fat: 21g",
+      "orderUrl": "https://www.ubereats.com/store/flacos-tacos-dearborn-%26-polk/ak0WzQRrQyuHsGw5xUYISg/012fb3be-1c58-56bb-872f-181dfce6e5aa/dc2d03fe-fd6d-587f-a814-9151502d7e99/a9a5cad3-86ea-5808-b158-508ad95a9578"
+    }
+  ],
+  "Slice Factory": [
+    {
+      "name": "Cheese Slice (Jumbo)",
+      "price": 10,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/846e706498562a0fcf44f1bbc3f8688c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "flour, olive oil, tomato, garlic, mozzarella, herbs.",
+      "nutritionInfo": "Calories: 580, Protein: 23g, Carbs: 65g, Fat: 23g",
+      "orderUrl": "https://www.ubereats.com/store/slice-factory-18th-street/HI0yLXEcSS6Kg-DWl6BKmw/b3fb74e6-afa0-5e97-b1db-5d68475a6b16/556a657a-8f9f-5be1-8050-e89bd9e40dff/dccfea13-4016-5b1f-bfc6-e03a8e566555"
+    },
+    {
+      "name": "Pepperoni Slice (Jumbo)",
+      "price": 10,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/846e706498562a0fcf44f1bbc3f8688c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "flour, olive oil, tomato, garlic, mozzarella, herbs, and pepperoni.",
+      "nutritionInfo": "Calories: 600, Protein: 30g, Carbs: 60g, Fat: 25g",
+      "orderUrl": "https://www.ubereats.com/store/slice-factory-18th-street/HI0yLXEcSS6Kg-DWl6BKmw/b3fb74e6-afa0-5e97-b1db-5d68475a6b16/556a657a-8f9f-5be1-8050-e89bd9e40dff/f9574772-2537-5e81-b6e1-5b5fb1086fac"
+    }
+  ],
+  "Potbelly": [
+    {
+      "name": "Turkey Breast (Original)",
+      "price:": 8,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ef3b23d163b05b1c47bd2924adc4593d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "multigrain bread, turkey breast, swiss cheese, toppings of choice.",
+      "nutritionInfo": "Calories: 520, Protein: 43g, Carbs: 67g, Fat: 14g",
+      "orderUrl": "https://www.ubereats.com/store/potbelly-sandwich-works-taylor-street-%7C-70/Q4l210JHSaqabFmvumgsXw/62fe3636-9c7a-5a3a-94af-6b808e400762/b7331bd9-a70e-5f9b-9cf8-f6d1cfcf72f9/7593f7ab-f21e-5c52-899f-75702c9ad1b9"
+    },
+    {
+      "name": "Chicken Club (Original)",
+      "price:": 10,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2d3304d989403f5eed5d090690ffd45/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+      "mealType": "dinner",
+      "diet": "high protein",
+      "ingredients": "white bread, all-natural grilled chicken , applewood smoked bacon, cheddar cheese , toppings of choice.",
+      "nutritionInfo": "Calories: 690, Protein: 60g, Carbs: 64g, Fat: 23g",
+      "orderUrl": "https://www.ubereats.com/store/potbelly-sandwich-works-taylor-street-%7C-70/Q4l210JHSaqabFmvumgsXw/62fe3636-9c7a-5a3a-94af-6b808e400762/b7331bd9-a70e-5f9b-9cf8-f6d1cfcf72f9/931e2a50-0d11-5128-97d6-5a807d8f1b96"
     }
   ]
 }
