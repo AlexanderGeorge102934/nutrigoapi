@@ -498,7 +498,7 @@
   "Potbelly": [
     {
       "name": "Turkey Breast (Original)",
-      "price:": 8,
+      "price": 8,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ef3b23d163b05b1c47bd2924adc4593d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
       "mealType": "dinner",
       "diet": "high protein",
@@ -508,7 +508,7 @@
     },
     {
       "name": "Chicken Club (Original)",
-      "price:": 10,
+      "price": 10,
       "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2d3304d989403f5eed5d090690ffd45/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
       "mealType": "dinner",
       "diet": "high protein",
