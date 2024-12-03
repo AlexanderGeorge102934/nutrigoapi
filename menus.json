@@ -666,5 +666,57 @@
       "nutritionInfo": "Calories: 460, Protein: 14g, Carbs: 68g, Fat: 13g",
       "orderUrl": "https://www.ubereats.com/store/pitaki/OJMYf6SLVbmqFX0XIVOXcg/b591066d-07b5-55d0-ba38-cbd4b61ebb9d/5ec3a0f1-7c06-5153-9768-04bcdc1d9370/f3a70879-a3f6-567c-9d05-fc476eec42b3"
     }
+  ],
+  "Curry On Fire Indian":[
+    {
+      "name": "Veg Samosa",
+      "price": 4,
+      "imageUrl": "https://www.cookwithnabeela.com/wp-content/uploads/2024/02/VegetableSamosa.webp",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Peas and potatoes, cilantro, and light spices.",
+      "nutritionInfo": "Calories: 310, Protein: 9g, Carbs: 90g, Fat: 2g",
+      "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/972e5512-ebfe-4e89-82b4-c854cfddea7f/5cefa0fe-44f9-4037-9d21-36f113e38b98"
+    },
+    {
+      "name": "Manchurian Cauliflower",
+      "price": 10,
+      "imageUrl": "https://www.scrumptiously.com/wp-content/uploads/2023/01/CauliflowerManchurian.webp",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Breaded cauliflower florets and Indo-Chinese fusion spices.",
+      "nutritionInfo": "Calories: 350, Protein: 5g, Carbs: 90g, Fat: 4g",
+      "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/972e5512-ebfe-4e89-82b4-c854cfddea7f/8f330319-3ad7-4383-95ec-a88d9274f2c0"
+    },
+    {
+      "name": "Onion Bhajia",
+      "price": 6,
+      "imageUrl": "https://www.jcookingodyssey.com/wp-content/uploads/2023/04/onion-bhaji.jpg",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Onion fritters battered with fried hot peppers.",
+      "nutritionInfo": "Calories: 250, Protein: 2g, Carbs: 76g, Fat: 4g",
+      "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/972e5512-ebfe-4e89-82b4-c854cfddea7f/939256a3-f188-4637-b925-08c146caf7c0"
+    },
+    {
+      "name": "Pav Bhaji",
+      "price": 9,
+      "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/11/pav-bhaji-500x500.jpg",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Mixed veggies pureed with spices. Served with bread rolls.",
+      "nutritionInfo": "Calories: 321, Protein: 8g, Carbs: 42g, Fat: 4g",
+      "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/972e5512-ebfe-4e89-82b4-c854cfddea7f/febb79de-41fa-450d-915c-1720409615e0"
+    },
+    {
+      "name": "Mirchi Bhajia",
+      "price": 6,
+      "imageUrl": "https://myfoodstory.com/wp-content/uploads/2021/08/Mirchi-Bajji-2.jpg",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Chickpea battered with fried hot peppers.",
+      "nutritionInfo": "Calories: 200, Protein: 3g, Carbs: 40g, Fat: 4g",
+      "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/972e5512-ebfe-4e89-82b4-c854cfddea7f/52fc01a8-f03b-4826-b9b2-ec9e3f70d5b0"
+    }
   ]
 }
