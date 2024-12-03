@@ -393,6 +393,36 @@
       "ingredients": "Steak, döner, chicken, and falafel over a bed of saffron rice, cucumber-tomato salad, red cabbage slaw, and tahini sauce.",
       "nutritionInfo": "Calories: 830, Protein: 56g, Carbs: 77g, Fat: 33g",
       "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/3edaae4d-f9ac-50e7-a767-a181a3496357"
+    },
+    {
+      "name": "Falafelicious Wrap",
+      "price": 10,
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/1e/82/531e825d-2e9d-45b2-6561-430cecdf0f97/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Falafels with a spread of hummus, cucumber-tomato salad, red cabbage slaw, tabouli.",
+      "nutritionInfo": "Calories: 400, Protein: 15g, Carbs: 60g, Fat: 20g",
+      "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/37590964-99ac-5768-a8fa-a1140b6f8b92/b87f2711-1889-506d-b246-6bf29110121d"
+    },
+    {
+      "name": "Wrap (No meat)",
+      "price": 10,
+      "imageUrl": "https://www.eatingwell.com/thmb/VGO8oogsJW5ZY6AsJuxYJinzeIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6218817-d9131d523b484b5ca13b6aeb81adb90d.jpg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "tortilla wrap with choice of toppings and a sauce, hold the meat.",
+      "nutritionInfo": "Calories: 200, Protein: 5g, Carbs: 60g, Fat: 10g",
+      "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/b5503e08-aea5-522a-a4fa-1e63a5ac17df/7e603fbf-5f78-5d2f-b36c-47a1edecd541"
+    },
+    {
+      "name": "Plate (No meat)",
+      "price": 10,
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/1e/82/531e825d-2e9d-45b2-6561-430cecdf0f97/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Choice of 2 bases, toppings and a sauce, hold the meat.",
+      "nutritionInfo": "Calories: 340, Protein: 10g, Carbs: 80g, Fat: 10g",
+      "orderUrl": "https://www.ubereats.com/store/idof-fresh-mediterranean-taylor-street/j54Y3cXhTO6hZLHF-XXYPA/3ae7a4fd-7e47-5c02-b260-a74766580b2b/b5503e08-aea5-522a-a4fa-1e63a5ac17df/98d85e9b-1077-5c21-b2ad-2adfdcb86cbd"
     }
   ],
   "Adda Indian Cuisine": [
