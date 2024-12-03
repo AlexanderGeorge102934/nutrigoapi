@@ -737,6 +737,16 @@
       "ingredients": "Chickpea battered with fried hot peppers.",
       "nutritionInfo": "Calories: 200, Protein: 3g, Carbs: 40g, Fat: 4g",
       "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/972e5512-ebfe-4e89-82b4-c854cfddea7f/52fc01a8-f03b-4826-b9b2-ec9e3f70d5b0"
+    },
+    {
+      "name": "Aloo Mutter",
+      "price": 5,
+      "imageUrl": "https://cdn1.foodviva.com/static-content/food-images/curry-recipes/aloo-mutter-recipe/aloo-mutter-recipe.jpg",
+      "mealType": "lunch",
+      "diet": "vegan",
+      "ingredients": "Potatoes with peas",
+      "nutritionInfo": "Calories: 200, Protein: 4g, Carbs: 40g, Fat: 4g",
+      "orderUrl": "https://www.ubereats.com/store/curry-on-fire-indian/jwEGC1ZATqiq6stoh3BRpQ/f60aaf47-fac8-4d47-b125-472e6604019b/ee9549f2-95d9-4fdd-9980-8fdf37822a72/ae992f4e-f592-4e7e-ad1f-d7faaec2532f"
     }
   ]
 }
