@@ -546,5 +546,17 @@
       "nutritionInfo": "Calories: 690, Protein: 60g, Carbs: 64g, Fat: 23g",
       "orderUrl": "https://www.ubereats.com/store/potbelly-sandwich-works-taylor-street-%7C-70/Q4l210JHSaqabFmvumgsXw/62fe3636-9c7a-5a3a-94af-6b808e400762/b7331bd9-a70e-5f9b-9cf8-f6d1cfcf72f9/931e2a50-0d11-5128-97d6-5a807d8f1b96"
     }
+  ],
+  "Tropical Smoothie Cafe":[
+    {
+      "name": "Island green w/ protein",
+      "price": 10,
+      "imageUrl": "https://d38zwb0vf9f6v5.cloudfront.net/wp-content/uploads/2017/08/25033857/IslandGreen_1200x800-1-e1661414921519-206x300.png",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Spinach, kale, mango, pineapple & banana",
+      "nutritionInfo": "Calories: 410, Protein: 11g, Carbs: 102g, Fat: 2g",
+      "orderUrl": "https://www.ubereats.com/store/tropical-smoothie-737-s-halsted-street/b9NZdxjpSO-oRhB3VtOIVg/72c58430-e170-41a0-b9ac-e18a887077b6/1c37e9a7-6446-5c2f-8b68-b08e077853ad/b488a665-e630-5dc2-af02-c4e881de250f"
+    }
   ]
 }
