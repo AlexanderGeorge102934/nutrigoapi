@@ -665,6 +665,26 @@
       "ingredients": "Beetroot Salad, Ancient Grains, Roasted Red Peppers, Grilled Pickles, Eggplant Dip, Hummus",
       "nutritionInfo": "Calories: 460, Protein: 14g, Carbs: 68g, Fat: 13g",
       "orderUrl": "https://www.ubereats.com/store/pitaki/OJMYf6SLVbmqFX0XIVOXcg/b591066d-07b5-55d0-ba38-cbd4b61ebb9d/5ec3a0f1-7c06-5153-9768-04bcdc1d9370/f3a70879-a3f6-567c-9d05-fc476eec42b3"
+    },
+    {
+      "name": "Pegasus",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/475322887aec939fe20f808bd2a64e35/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Beetroot Salad, Ancient Grains, Roasted Red Peppers, Grilled Pickles, Eggplant Dip, Hummus",
+      "nutritionInfo": "Calories: 385, Protein: 12g, Carbs: 60g, Fat: 14g",
+      "orderUrl": "https://www.ubereats.com/store/pitaki/OJMYf6SLVbmqFX0XIVOXcg/b591066d-07b5-55d0-ba38-cbd4b61ebb9d/5ec3a0f1-7c06-5153-9768-04bcdc1d9370/f3a70879-a3f6-567c-9d05-fc476eec42b3"
+    },
+    {
+      "name": "Big Moustaki",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7457cf7eadbfa917a532400787cf9d1a/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Mixed Greens, Slaw, Roasted Red Pepper, Grilled Pickles, Feta, Eggplant Dip, Socrates BBQ",
+      "nutritionInfo": "Calories: 315, Protein: 10g, Carbs: 67g, Fat: 17g",
+      "orderUrl": "https://www.ubereats.com/store/pitaki/OJMYf6SLVbmqFX0XIVOXcg/b591066d-07b5-55d0-ba38-cbd4b61ebb9d/5ec3a0f1-7c06-5153-9768-04bcdc1d9370/3c7c6ee0-4dd5-5622-adc5-9121444dd02b"
     }
   ],
   "Curry On Fire Indian":[
