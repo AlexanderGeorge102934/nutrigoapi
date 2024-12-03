@@ -600,5 +600,71 @@
       "nutritionInfo": "Calories: 300, Protein: 7g, Carbs: 80g, Fat: 12g",
       "orderUrl": "https://www.ubereats.com/store/ghareeb-nawaz-express/b9HKSRJSRwe9GvGfKXSpFw/ab658319-a7ba-4315-889d-b243de4d5f4d/cb9e2ee7-9adc-4b92-8b71-ba08a87cc01c/a9dc5591-42e0-4c2d-80f9-8cf112f9230f"
     }
+  ],
+  "Koko's Mediterranean Grille": [
+    {
+      "name": "Mediterranean Veggie Plate",
+      "price": 14,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47cb8b7a805aad4f31acacb207e777fe/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Four falafel with hummus, tzatziki, zesty feta olive spread, babaganush, and pita bread.",
+      "nutritionInfo": "Calories: 780, Protein: 26g, Carbs: 70g, Fat: 44g",
+      "orderUrl": "https://www.ubereats.com/store/kokos-mediterranean-grille/sQoN-09CQeG31Mw0tzgPOA/d430fd94-2f71-4d95-9f2e-5adaa11617aa/8ae5cd14-03f8-43d8-9db8-ff4208fb152c/55d174ac-03a6-41cf-8775-07f8e35bfd16"
+    },
+    {
+      "name": "Veggie Omelette",
+      "price": 13,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9f03f7faacdf4d45f082cd1335c486d4/58f691da9eaef86b0b51f9b2c483fe63.jpeg",
+      "mealType": "breakfast",
+      "diet": "vegetarian",
+      "ingredients": "Tomatoes, mushrooms, green peppers, spinach, and onions. Served with hash browns, toast, and jelly.",
+      "nutritionInfo": "Calories: 460, Protein: 11g, Carbs: 73g, Fat: 12g",
+      "orderUrl": "https://www.ubereats.com/store/kokos-mediterranean-grille/sQoN-09CQeG31Mw0tzgPOA/d430fd94-2f71-4d95-9f2e-5adaa11617aa/81cc7b91-0ade-4340-aa87-d586c085e436/ab11e9e8-172b-4abb-8ef2-85d8eb830790"
+    },
+    {
+      "name": "Falafel Salad",
+      "price": 14,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dc1a737b53bab9bed9d7b642528adae6/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Four falafel on a bed of fresh mixed greens with green peppers, red onions, tomatoes, and cucumbers. Served with warm pita bread.",
+      "nutritionInfo": "Calories: 460, Protein: 11g, Carbs: 73g, Fat: 12g",
+      "orderUrl": "https://www.ubereats.com/store/kokos-mediterranean-grille/sQoN-09CQeG31Mw0tzgPOA/d430fd94-2f71-4d95-9f2e-5adaa11617aa/b14a7a98-67c0-446a-9386-df84fc99550f/2108f54d-98d8-4e5b-8bc1-1b1d5d792b00"
+    },
+    {
+      "name": "Veggie Panini",
+      "price": 12,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dc1a737b53bab9bed9d7b642528adae6/4218ca1d09174218364162cd0b1a8cc1.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Eggplant, zucchini, and roasted sweet peppers hot pressed with Swiss cheese and zesty feta olive spread.",
+      "nutritionInfo": "Calories: 440, Protein: 18g, Carbs: 47g, Fat: 22g",
+      "orderUrl": "https://www.ubereats.com/store/kokos-mediterranean-grille/sQoN-09CQeG31Mw0tzgPOA/d430fd94-2f71-4d95-9f2e-5adaa11617aa/e54c6a5e-d926-4fec-955f-13a3530cf053/dd88dea9-cd3e-4619-a162-2e52a29deb08"
+    }
+  ],
+  "Poke Poke": [
+    {
+      "name": "Poke Bowl (Large)",
+      "price": 19,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0069124d5c02e1c8c23680461a8d02c6/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Customize your own poké bowl to your liking with our endless variation of protiens, toppings, sauces, and garnishes!",
+      "nutritionInfo": "Calories: 500-900, Protein: 30-50g, Carbs: 50-80g, Fat: 15-40g",
+      "orderUrl": "https://www.ubereats.com/store/poke-poke-wabash/Qmz_gRMXQDigFgsnMFAmdw/b0d0aea6-5da2-57f1-9a21-efd05e78ab00/0379a62a-1156-4ddb-a09a-7e1dc45d5dfb/6588bcdb-7af7-556a-b064-46bced98e5a8"
+    }
+  ],
+  "Pitaki": [
+    {
+      "name": "Dancing Queen",
+      "price": 16,
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/475322887aec939fe20f808bd2a64e35/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "Beetroot Salad, Ancient Grains, Roasted Red Peppers, Grilled Pickles, Eggplant Dip, Hummus",
+      "nutritionInfo": "Calories: 460, Protein: 14g, Carbs: 68g, Fat: 13g",
+      "orderUrl": "https://www.ubereats.com/store/pitaki/OJMYf6SLVbmqFX0XIVOXcg/b591066d-07b5-55d0-ba38-cbd4b61ebb9d/5ec3a0f1-7c06-5153-9768-04bcdc1d9370/f3a70879-a3f6-567c-9d05-fc476eec42b3"
+    }
   ]
 }
