@@ -558,5 +558,47 @@
       "nutritionInfo": "Calories: 410, Protein: 11g, Carbs: 102g, Fat: 2g",
       "orderUrl": "https://www.ubereats.com/store/tropical-smoothie-737-s-halsted-street/b9NZdxjpSO-oRhB3VtOIVg/72c58430-e170-41a0-b9ac-e18a887077b6/1c37e9a7-6446-5c2f-8b68-b08e077853ad/b488a665-e630-5dc2-af02-c4e881de250f"
     }
+  ],
+  "Ghareeb Nawaz Express":[
+    {
+      "name": "Daal",
+      "price": 5,
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1920,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/ugc/6d839582-9bd0-4ea8-a8d1-1ca2bc093f7d.jpg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "lentils, onions, garlic, ginger, tomatoes, cumin, turmeric, chili, coriander, garam masala, ghee or oil, and cilantro.",
+      "nutritionInfo": "Calories: 198, Protein: 11g, Carbs: 27g, Fat: 3g",
+      "orderUrl": "https://www.ubereats.com/store/ghareeb-nawaz-express/b9HKSRJSRwe9GvGfKXSpFw/ab658319-a7ba-4315-889d-b243de4d5f4d/83c09eba-2f6a-4be0-b364-209f9b5af271/813cc0d0-2b7b-4c8e-a82d-6a9c375a9253"
+    },
+    {
+      "name": "Palak",
+      "price": 5,
+      "imageUrl": "https://fullofplants.com/wp-content/uploads/2024/06/easy-vegan-dal-palak-spinach-with-chickpeas-thumb.jpg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "lentils, onions, garlic, ginger, tomatoes, cumin, turmeric, chili, coriander, garam masala, ghee or oil, and cilantro.",
+      "nutritionInfo": "Calories: 198, Protein: 11g, Carbs: 27g, Fat: 3g",
+      "orderUrl": "https://www.ubereats.com/store/ghareeb-nawaz-express/b9HKSRJSRwe9GvGfKXSpFw/ab658319-a7ba-4315-889d-b243de4d5f4d/83c09eba-2f6a-4be0-b364-209f9b5af271/2867edb5-c8d3-4fd4-a962-cf6b83551eed"
+    },
+    {
+      "name": "Channa Masala",
+      "price": 5,
+      "imageUrl": "https://fullofplants.com/wp-content/uploads/2024/06/easy-vegan-dal-palak-spinach-with-chickpeas-thumb.jpg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "hickpeas, onions, tomatoes, garlic, ginger, cumin, coriander, turmeric, garam masala, chili powder, oil or ghee, and fresh cilantro",
+      "nutritionInfo": "Calories: 280, Protein: 7g, Carbs: 30g, Fat: 16g",
+      "orderUrl": "https://www.ubereats.com/store/ghareeb-nawaz-express/b9HKSRJSRwe9GvGfKXSpFw/ab658319-a7ba-4315-889d-b243de4d5f4d/83c09eba-2f6a-4be0-b364-209f9b5af271/fd279368-178b-4d08-9cd3-5b58f20b1f3d"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 5,
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1920,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/ugc/802e8b7a-3fa4-4f0d-b09d-502d09d543e6.jpg",
+      "mealType": "lunch",
+      "diet": "vegetarian",
+      "ingredients": "rice with choice of vegetables.",
+      "nutritionInfo": "Calories: 300, Protein: 7g, Carbs: 80g, Fat: 12g",
+      "orderUrl": "https://www.ubereats.com/store/ghareeb-nawaz-express/b9HKSRJSRwe9GvGfKXSpFw/ab658319-a7ba-4315-889d-b243de4d5f4d/cb9e2ee7-9adc-4b92-8b71-ba08a87cc01c/a9dc5591-42e0-4c2d-80f9-8cf112f9230f"
+    }
   ]
 }
